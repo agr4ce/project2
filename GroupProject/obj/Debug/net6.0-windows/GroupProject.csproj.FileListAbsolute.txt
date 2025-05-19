@@ -1,0 +1,567 @@
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.baml
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\MWindow.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\MWindow.baml
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Window1.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Window1.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\MWindow.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Window1.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\MWindow.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\Window1.baml
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\close.png
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\maximize.png
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\close.png
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\1.png
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+D:\GP\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\maximize.png
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+D:\GP\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\minimize.png
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\newDatePicker.g.cs
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\newDatePicker.baml
+C:\ildar\gp\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\calendar.png
+C:\ildar\gp\GroupProject\GroupProject\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\calendar.png
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\close.png
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\minimize.png
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\maximize.png
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\filter.png
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\SearchFilterWindow.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\SearchFilterWindow.baml
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\Ruben\Downloads\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\SearchFilterWindow.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\calendar.png
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\close.png
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\minimize.png
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\maximize.png
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\filter.png
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\SearchFilterWindow.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\Users\drago\Desktop\GroupProject (3)\GroupProject\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\calendar.png
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\close.png
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\minimize.png
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\maximize.png
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\filter.png
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\Users\drago\Desktop\GroupProject (2)\GroupProject\GroupProject\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\DotNetZip.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\DotNetZip.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\Resources\DIR.png
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\bin\Debug\net6.0-windows\Resources\FILE.png
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\MessageWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\Новая папка\GroupProject\obj\Debug\net6.0-windows\MessageWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\Resources\DIR.png
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\Resources\FILE.png
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\DotNetZip.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\MessageWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\MessageWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\RegistrationPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\GroupProject\GP\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\DIR.png
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\bin\Debug\net6.0-windows\Resources\FILE.png
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\MessageWindow.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\MessageWindow.g.cs
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\Resources\DIR.png
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\Resources\FILE.png
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\DotNetZip.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\temp\PKS-01\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\MessageWindow.baml
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\App.baml
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\MessageWindow.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SignUpPage.g.cs
+C:\temp\PKS-01\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SignUpPage.baml
+D:\gp\GroupProject\bin\Debug\net6.0-windows\Resources\DIR.png
+D:\gp\GroupProject\bin\Debug\net6.0-windows\Resources\FILE.png
+D:\gp\GroupProject\bin\Debug\net6.0-windows\Resources\logo.png
+D:\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.exe
+D:\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.deps.json
+D:\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.runtimeconfig.json
+D:\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\GroupProject.pdb
+D:\gp\GroupProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\DotNetZip.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\ShowMeTheXAML.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\gp\GroupProject\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.AssemblyReference.cache
+D:\gp\GroupProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\MessageWindow.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\App.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\InfoWindow.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\MessageWindow.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\AuthorizatonPage.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SignUpPage.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\StartWindow.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\App.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject_Content.g.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.cache
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject_MarkupCompile.lref
+D:\gp\GroupProject\obj\Debug\net6.0-windows\InfoWindow.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\ResetPasswordPage.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SetNewPasswordPage.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\Pages\SignUpPage.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\StartWindow.baml
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.g.resources
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfoInputs.cache
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.AssemblyInfo.cs
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CoreCompileInputs.cache
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.csproj.CopyComplete
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.dll
+D:\gp\GroupProject\obj\Debug\net6.0-windows\refint\GroupProject.dll
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.pdb
+D:\gp\GroupProject\obj\Debug\net6.0-windows\GroupProject.genruntimeconfig.cache
+D:\gp\GroupProject\obj\Debug\net6.0-windows\ref\GroupProject.dll
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\InfoWindow.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SignUpPage.g.cs
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\InfoWindow.baml
+C:\Users\Necrokniga\Desktop\GroupProject\GroupProject\obj\Debug\net6.0-windows\Pages\SignUpPage.baml

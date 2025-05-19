@@ -1,0 +1,15 @@
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\bin\Debug\net6.0\EmailVerificationTest.exe
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\bin\Debug\net6.0\EmailVerificationTest.deps.json
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\bin\Debug\net6.0\EmailVerificationTest.runtimeconfig.json
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\bin\Debug\net6.0\EmailVerificationTest.dll
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\bin\Debug\net6.0\EmailVerificationTest.pdb
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.csproj.AssemblyReference.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.AssemblyInfoInputs.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.AssemblyInfo.cs
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.csproj.CoreCompileInputs.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.dll
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\refint\EmailVerificationTest.dll
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.pdb
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\EmailVerificationTest.genruntimeconfig.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\EmailVerificationTest\obj\Debug\net6.0\ref\EmailVerificationTest.dll

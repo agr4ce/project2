@@ -1,0 +1,15 @@
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\bin\Debug\net6.0\FtpServerUploadDownloadTest.exe
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\bin\Debug\net6.0\FtpServerUploadDownloadTest.deps.json
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\bin\Debug\net6.0\FtpServerUploadDownloadTest.runtimeconfig.json
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\bin\Debug\net6.0\FtpServerUploadDownloadTest.dll
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\bin\Debug\net6.0\FtpServerUploadDownloadTest.pdb
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.csproj.AssemblyReference.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.AssemblyInfoInputs.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.AssemblyInfo.cs
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.csproj.CoreCompileInputs.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.dll
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\refint\FtpServerUploadDownloadTest.dll
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.pdb
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\FtpServerUploadDownloadTest.genruntimeconfig.cache
+C:\Users\Necrokniga\source\repos\EmailVerificationTest\FtpServerUploadDownloadTest\obj\Debug\net6.0\ref\FtpServerUploadDownloadTest.dll
